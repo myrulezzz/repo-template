@@ -22,7 +22,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          repos=("your-org/repo-1" "your-org/repo-2") # <-- Replace with your repos!
+          repos=("myrulezzz/repository_test1") # <-- Replace with your repos!
           
           for repo in "${repos[@]}"; do
             echo "🔁 Syncing to $repo..."
