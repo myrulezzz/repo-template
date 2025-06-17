@@ -11,3 +11,4 @@ Please make sure all items are checked before requesting a review 😄
 - [ ] Firewall settings are checked and working
 - [ ] Topics and users in production kafka are created and verified
 - [ ] Tests are completed and passed
+- [ ] SASL SSL is enabled
