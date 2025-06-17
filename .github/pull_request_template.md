@@ -12,3 +12,4 @@ Please make sure all items are checked before requesting a review 😄
 - [ ] Topics and users in production kafka are created and verified
 - [ ] Tests are completed and passed
 - [ ] SASL SSL is enabled
+- [ ] Check also files in the repo
